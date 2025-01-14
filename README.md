@@ -1,18 +1,15 @@
-# Keyauth-1.3-Dumper
+## Keyauth-1.3-Dumper
 Keyauth v1.3 Server Side Dumper Tool made by Cutypie.
 
-__what it do?__ any files or bytes from the Keyauth server will be dumped into a dump folder.
-
-__how its work?__ the DLL hooks the keyauth request function, decrypts the data and put the server response bytes into a bin file. 
-
-__more info:__ its also bypassing integrity_check, cmd_error, signature_check and more...
-
-__tutorial:__
-
+- **what it do?** any files or bytes from the Keyauth server will be dumped into a dump folder.
+- **how its work?** the DLL hooks the keyauth request function, decrypts the data and put the server response bytes into a bin file. 
+- **more info:** its also bypassing integrity_check, cmd_error, signature_check and more...
+## Build:
+- 1. extract the polyhook2-static.zip
+- 2. open the sln file and build the project using CTRL + B
+  
+## Tutorial - How To Use:
 https://streamable.com/srwy18
-
-__Download:__
-https://gofile.io/d/v6jFwC
 
 **Note:** make sure you inject the dll **after** you logged in!
 
