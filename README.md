@@ -2,7 +2,9 @@
 Keyauth v1.3 Server Side Dumper Tool made by Cutypie.
 
 __what it do?__ any files or bytes from the Keyauth server will be dumped into a dump folder.
+
 __how its work?__ the DLL hooks the keyauth request function, decrypts the data and put the server response bytes into a bin file. 
+
 __more info:__ its also bypassing integrity_check, cmd_error, signature_check and more...
 
 __tutorial:__
