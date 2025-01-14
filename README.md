@@ -15,4 +15,4 @@ __Download:__
 https://gofile.io/d/v6jFwC
 
 **Note:** make sure you inject the dll **after** you logged in!
-if you find any bugs or its doesnt work for you, dm me.
+if you find any bugs or its doesnt work for you, open issues on this project
