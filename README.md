@@ -12,6 +12,8 @@ Keyauth v1.3 Server Side Dumper Tool made by Cutypie.
 - 1. Open the Keyauth loader process
   2. Login with a valid username and password or license key
   3. Inject the dll to the process using any injector that you want. (Can be LoadLibaryA injection or Manual Map injection).
+
+__**Video Tutorial:**__
 https://streamable.com/srwy18
 
 **Note:** make sure you inject the dll **after** you logged in!
